@@ -1,0 +1,7 @@
+site_name: Calculator Service
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
