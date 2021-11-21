@@ -1,4 +1,4 @@
-site_name: candle-service
+site_name: Candle docs
 
 nav:
   - Home: index.md
