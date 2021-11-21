@@ -1,4 +1,4 @@
-site_name: Calculator Service
+site_name: calculator-service
 
 nav:
   - Home: index.md

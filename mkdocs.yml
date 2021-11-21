@@ -1,10 +1,10 @@
-site_name: Root docs
+site_name: root-docs
 
 nav:
   - Home: index.md
   - Subdirectory docs:
-    - Calculator service: '!include ./services/calculator-service/mkdocs.yml'
-    - Candle service: '!include ./services/candle-service/mkdocs.yml'
+    - calculator-service: '!include ./services/calculator-service/mkdocs.yml'
+    - candle-service: '!include ./services/candle-service/mkdocs.yml'
 
 plugins:
   - monorepo
