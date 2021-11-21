@@ -2,8 +2,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: sample-combined-monorepo
-  title: Sample combined monorepo
+  name: combined-monorepo
+  title: Combined monorepo
   description: A combined monorepo
   annotations:
     github.com/project-slug: RoadieHQ/sample-combined-monorepo
