@@ -7,7 +7,7 @@ metadata:
   description: A combined monorepo
   annotations:
     github.com/project-slug: RoadieHQ/sample-combined-monorepo
-    backstage.io/source-location: url:https://github.com/RoadieHQ/sample-combined-monorepo
+    backstage.io/source-location: url:https://github.com/RoadieHQ/sample-combined-monorepo/
     backstage.io/techdocs-ref: dir:.
   tags: 
     - nodejs
