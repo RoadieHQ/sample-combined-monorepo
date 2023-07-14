@@ -1,4 +1,4 @@
-site_name: {Root docs}
+site_name: '{component-name}'
 
 nav:
   - Home: index.md
